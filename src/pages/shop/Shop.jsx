@@ -6,6 +6,8 @@ import { dummydata } from '../../dummydata';
 import { FaShopify } from "react-icons/fa";
 
 
+
+
 function Shop() {
   const [cate, setCate] = useState(dummydata);
 

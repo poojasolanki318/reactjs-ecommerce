@@ -4,7 +4,7 @@ import {BrowserRouter, Route, Routes} from "react-router-dom"
 import Nav from "./components/nav/Nav"
 import Footer from "./components/nav/Footer/Footer"
 import Shop from "./pages/shop/Shop"
-import Cart from "./pages/cart/Cart"
+import Cart from "./pages/Cart/Cart"
 import Contact from "./pages/contact/contact" 
 
 
