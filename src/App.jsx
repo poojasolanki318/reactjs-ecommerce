@@ -5,7 +5,8 @@ import Nav from "./components/nav/Nav"
 import Footer from "./components/nav/Footer/Footer"
 import Shop from "./pages/shop/Shop"
 import Cart from "./pages/Cart/Cart"
-import Contact from "./pages/contact/contact" 
+import Contact from "./pages/Contact/Contact";
+
 
 
 function App() {
